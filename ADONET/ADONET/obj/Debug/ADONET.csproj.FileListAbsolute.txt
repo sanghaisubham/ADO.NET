@@ -1,0 +1,14 @@
+c:\users\subham\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe.config
+c:\users\subham\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe
+c:\users\subham\source\repos\ADONET\ADONET\bin\Debug\ADONET.pdb
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.csprojResolveAssemblyReference.cache
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.Form1.resources
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.Properties.Resources.resources
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.GenerateResource.Cache
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.CoreCompileInputs.cache
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.exe
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.pdb
+c:\users\subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.Form2.resources
+C:\Users\Subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.Form3.resources
+C:\Users\Subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.Form4.resources
+C:\Users\Subham\source\repos\ADONET\ADONET\obj\Debug\ADONET.Form5.resources
